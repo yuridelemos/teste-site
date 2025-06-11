@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "ANPLA",
+  "short_name": "ANPLA",
   "icons": [
     {
       "src": "/assets/icons/web-app-manifest-192x192.png",
